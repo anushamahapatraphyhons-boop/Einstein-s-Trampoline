@@ -1,4 +1,4 @@
-# 🌌 Einstein's Trampoline
+# Einstein's Trampoline
 
 An interactive, real-time 3D simulation of a spinning **Kerr Black Hole ($a^* = 0.98$)** written in Python and compiled on Vulkan/CPU using Taichi. Includes a procedurally generated ambient pipe organ synthesizer soundtrack.
 
@@ -12,7 +12,7 @@ An interactive, real-time 3D simulation of a spinning **Kerr Black Hole ($a^* = 
 
 ---
 
-## 🔬 Physics Under the Hood
+##  Physics Under the Hood
 
 This project is powered by actual relativistic physics equations integrated in real-time on your GPU:
 
@@ -24,7 +24,7 @@ This project is powered by actual relativistic physics equations integrated in r
 
 ---
 
-## 🎹 Procedural Ambient Soundtrack
+## Procedural Ambient Soundtrack
 
 The simulation includes a procedural **Interstellar-style pipe organ drone track** generated programmatically (requires no external `.mp3` or `.wav` files):
 * **Cathedral Organ Harmonics:** Stacks detuned fundamental, 2nd, 3rd, and 4th octaves to build a rich organ voice.
@@ -33,10 +33,10 @@ The simulation includes a procedural **Interstellar-style pipe organ drone track
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
-Make sure you have Python 3.8+ installed. Install the required libraries:
+Make sure you have Python 3.10-3.12 installed. Install the required libraries:
 ```bash
 pip install taichi numpy pygame
 ```
@@ -49,7 +49,7 @@ python sim.py
 
 ---
 
-## 🎮 Interactive Controls
+##  Interactive Controls
 
 | Control | Action |
 | --- | --- |
