@@ -6,7 +6,7 @@ An interactive, real-time 3D simulation of a spinning **Kerr Black Hole ($a^* = 
 
 ### 🎬 Live Demo Preview
 
-*Once you run the simulation on your machine, record a short screen capture, convert it to a `demo.gif`, save it in this folder, and push it to GitHub to show a live preview here!*
+
 
 ![Einstein's Trampoline Demo](demo.gif)
 
